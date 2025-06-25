@@ -57,7 +57,7 @@ Download from:
 [Git](https://git-scm.com/downloads)
 
 ```bash
-git clone https://github.com/lantas-bit/Auto-post
+git clone https://github.com/AutoPost-Und/Auto-post
 cd Auto-post
 ```
 **Before installing required packages on cmd or powershell read this:**
