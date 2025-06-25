@@ -15,7 +15,7 @@ This project auto-posts messages to Discord channels with interval and optional 
 **Clone the repo & install requirements:**
 ```bash
 pkg update && pkg install git python -y
-git clone https://github.com/AutoPost-Und/Auto-post
+git clone https://github.com/UNDSTORE/AutoPost-Und
 cd Auto-post
 pip install flask requests
 ```
@@ -57,7 +57,7 @@ Download from:
 [Git](https://git-scm.com/downloads)
 
 ```bash
-git clone https://github.com/AutoPost-Und/Auto-post
+git clone https://github.com/UNDSTORE/AutoPost-Und
 cd Auto-post
 ```
 **Before installing required packages on cmd or powershell read this:**
